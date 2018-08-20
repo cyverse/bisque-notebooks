@@ -1,5 +1,17 @@
 # BisQue Notebooks #
 
+## Requirements ##
+
+Python 2.7.x with (at least) the following extensions:
+
+ `% pip install biaque-api`
+
+ `% pip install lxml`
+
+You will also need the img003.tif, img009.tif and img010.tif images.
+
+## Comment(s) ##
+
 These notebooks highlight some aspects of using BisQue and the Python API in particular.
 The notebooks should be run in this order:
 
