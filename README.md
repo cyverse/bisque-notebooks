@@ -4,7 +4,7 @@
 
 Python 2.7.x with (at least) the following extensions:
 
- `% pip install biaque-api`
+ `% pip install bisque-api`
 
  `% pip install lxml`
 
