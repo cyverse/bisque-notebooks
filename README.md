@@ -18,6 +18,8 @@ order:
   2. BisQue_Graphical_Annotations.ipynb
   3. BisQue_Modify_Annotations.ipynb
 
+The accompanying webinar is at _https://youtu.be/Sv0hhZO1WDI_.
 Two CSV and one LSM data files are included (and required). You will 
-also need the img003.tif, img009.tif and img010.tif images.
+also need the img003.tif, img009.tif and img010.tif images but these
+should be available from this repo using the `git lfs` extension.
 
