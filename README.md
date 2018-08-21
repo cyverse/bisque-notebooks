@@ -1,4 +1,4 @@
-# BisQue Notebooks #
+# BisQue (Jupyter) Notebooks #
 
 ## Requirements ##
 
